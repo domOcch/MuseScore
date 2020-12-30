@@ -18,6 +18,7 @@ build.artifacts
 build.symbols
 MuseScorePortable
 my_build_dir
+mybuild.bat
 /*.config
 /*.creator
 /*.files
