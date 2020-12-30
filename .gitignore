@@ -43,6 +43,7 @@ vtest/LOG
 vtest/META-INF
 vtest/Thumbnails
 vtest/Pictures
+my_buld_dir
 .vs
 dependencies
 
