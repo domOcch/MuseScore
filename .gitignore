@@ -17,6 +17,7 @@ applebuild
 build.artifacts
 build.symbols
 MuseScorePortable
+my_build_dir
 /*.config
 /*.creator
 /*.files
@@ -43,7 +44,6 @@ vtest/LOG
 vtest/META-INF
 vtest/Thumbnails
 vtest/Pictures
-my_buld_dir
 .vs
 dependencies
 
